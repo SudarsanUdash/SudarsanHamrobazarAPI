@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SabinaSunuwar/HamrobazarAPI.git"
+    "url": "git+https://github.com/SudarsanUdash/SudarsanHamrobazarAPI.git"
   },
   "keywords": [],
-  "author": "Sabina Sunuwar",
+  "author": "Sudarsan",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/SabinaSunuwar/HamrobazarAPI/issues"
+    "url": "https://github.com/SudarsanUdash/SudarsanHamrobazarAPI/issues"
   },
-  "homepage": "https://github.com/SabinaSunuwar/HamrobazarAPI#readme",
+  "homepage": "https://github.com/SudarsanUdash/SudarsanHamrobazarAPI#readme",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "cors": "^2.8.5",
